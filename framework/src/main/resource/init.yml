@@ -1,0 +1,3 @@
+spring:
+  application:
+    controller: com.lh.core.framework.controller
